@@ -45,7 +45,7 @@ header nav ul{
     color: red;
 }
 #Índice ol{
-    font-size: large;
+    font-size: x-large;
 }
 /*DEFINICIÓN*/
 #Definición {
@@ -63,7 +63,7 @@ header nav ul{
   }
 #Definición p{
     padding: 5px 7px;
-    font-size: large;
+    font-size: larger;
   }
 #Definición img {
     display: flex;
@@ -82,11 +82,11 @@ CARACTERISTICAS
     padding: 15px;
 }
 #Características p{
-    font-size: large;
+    font-size: larger;
     padding: 5px;
 }
 #Características ul{
-    font-size: large;
+    font-size: larger;
 }
 #Características ul li{
     padding: 5px;
@@ -107,11 +107,11 @@ USOS
     padding: 15px;
 }
 #Usos p{
-    font-size: large;
+    font-size: larger;
     padding: 5px;
 }
 #Usos ul{
-    font-size: large;
+    font-size: larger;
 }
 #Usos ul li{
     padding: 5px;
@@ -133,11 +133,11 @@ FUTURO
     padding: 15px;
 }
 #Futuro p{
-    font-size: large;
+    font-size: larger;
     padding: 5px;
 }
 #Futuro ul{
-    font-size: large;
+    font-size: larger;
 }
 #Futuro ul li{
     padding: 5px;
@@ -150,4 +150,5 @@ footer{
     width: 100%;
     padding: 10px;
     font-size: large;
+    font-weight: bolder;
 }
